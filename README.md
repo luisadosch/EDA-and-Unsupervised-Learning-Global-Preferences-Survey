@@ -6,7 +6,7 @@ A data science project analyzing cross-cultural patterns in economic preferences
 
 Analysis of the Global Preferences Survey dataset (80,337 individuals) exploring how patience, risk-taking, reciprocity, altruism, and trust vary globally.
 
-**Dataset**: Falk et al. (2018), *The Quarterly Journal of Economics*
+**Dataset**: Further information can be found on the website (https://gps.iza.org/) and in the paper "Global Evidence on Economic Preferences" by Falk, Becker, Dohmen, Enke, Huffman, and Sunde, published in The Quarterly Journal of Economics* 133(4): 1645–1692, 2018 (https://doi.org/10.1093/qje/qjy013).
 
 ## Key Analyses
 
