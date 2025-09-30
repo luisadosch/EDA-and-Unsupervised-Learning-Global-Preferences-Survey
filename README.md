@@ -1,6 +1,6 @@
 # Global Preferences Survey Analysis
 
-A data science project analyzing cross-cultural patterns in economic preferences across 76 countries using machine learning and statistical methods.
+A data science class project analyzing cross-cultural patterns in economic preferences across 76 countries using machine learning and statistical methods.
 
 ## Overview
 
