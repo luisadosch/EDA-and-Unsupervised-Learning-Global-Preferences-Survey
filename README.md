@@ -38,16 +38,6 @@ Analysis of the Global Preferences Survey dataset (80,337 individuals) exploring
 - **Strong country-level correlation** between altruism and positive reciprocity (r = 0.72)
 - Age negatively correlates with risk-taking (-0.23); females show lower risk-taking (-0.11)
 
-## Technical Stack
-
-Python 3.11 | pandas, numpy, scipy | matplotlib, seaborn, folium | scikit-learn, XGBoost, SHAP
-
-## Files
-
-├── individual_new.csv    # Dataset
-├── analysis.ipynb        # Analysis notebook
-└── README.md
-
 ## Skills Demonstrated
 
 - Advanced data cleaning and weighted statistical analysis
