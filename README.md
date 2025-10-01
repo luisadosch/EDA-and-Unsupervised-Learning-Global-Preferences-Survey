@@ -48,3 +48,6 @@ Analysis of the Global Preferences Survey dataset (80,337 individuals) exploring
 
 [![Interactive Map Preview](docs/0A230E9A-B91B-4A63-B101-FE212CB8CD2B.jpeg)](https://luisadosch.github.io/global-preference-clustering-analysis/)
 
+🌍 **Explore the interactive map of global preferences [here](https://luisadosch.github.io/global-preference-clustering-analysis/)!**
+
+
